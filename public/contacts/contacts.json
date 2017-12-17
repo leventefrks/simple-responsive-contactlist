@@ -4,209 +4,239 @@
     "picture": "contacts/images/profile1.jpg",
     "name": "Anne",
     "email": "nortonwolf@sentia.com",
-    "phone": "(875) 417-3046"
+    "phone": "(875) 417-3046",
+    "group":"Family"
   },
   {
     "_id": "5a33c0135927bf371ecf1c07",
     "picture": "contacts/images/profile2.jpg",
     "name": "Nina",
     "email": "ninagrimes@sentia.com",
-    "phone": "(879) 455-2594"
+    "phone": "(879) 455-2594",
+    "group":"Family"
   },
   {
     "_id": "5a33c0132fe16d1c391a8e28",
     "picture": "contacts/images/profile3.jpg",
     "name": "Susan",
     "email": "fowlertran@sentia.com",
-    "phone": "(919) 583-3680"
+    "phone": "(919) 583-3680",
+    "group":"Family"
   },
   {
     "_id": "5a33c0133417312007ffd4c4",
     "picture": "contacts/images/profile4.jpg",
     "name": "Meyer",
     "email": "meyermcknight@sentia.com",
-    "phone": "(966) 414-2410"
+    "phone": "(966) 414-2410",
+    "group":"Family"
   },
   {
     "_id": "5a33c013a1560a79b972b2d8",
     "picture": "contacts/images/profile5.jpg",
     "name": "Sandra",
     "email": "ratliffalford@sentia.com",
-    "phone": "(932) 435-3040"
+    "phone": "(932) 435-3040",
+    "group":"Family"
   },
   {
     "_id": "5a33c0137214ede80f94137f",
     "picture": "contacts/images/profile6.jpg",
     "name": "Kendra",
     "email": "kendrahancock@sentia.com",
-    "phone": "(829) 502-3008"
+    "phone": "(829) 502-3008",
+    "group":"Family"
   },
   {
     "_id": "5a33c01349ce73ff461c9175",
     "picture": "contacts/images/profile7.jpg",
     "name": "Keisha",
     "email": "keishacruz@sentia.com",
-    "phone": "(840) 443-3591"
+    "phone": "(840) 443-3591",
+    "group":"Family"
   },
   {
     "_id": "5a33c0139933242a97c2f436",
     "picture": "contacts/images/profile8.jpg",
     "name": "Sandra",
     "email": "sondravance@sentia.com",
-    "phone": "(832) 496-3822"
+    "phone": "(832) 496-3822",
+    "group":"Family"
   },
   {
     "_id": "5a33c013b744a442e4cacbed",
     "picture": "contacts/images/profile9.jpg",
     "name": "Lilly",
     "email": "lillywalls@sentia.com",
-    "phone": "(945) 450-2582"
+    "phone": "(945) 450-2582",
+    "group":"Family"
   },
   {
     "_id": "5a33c013f3c7593326c41344",
     "picture": "contacts/images/profile10.jpg",
     "name": "Cassis",
     "email": "cassiejennings@sentia.com",
-    "phone": "(865) 547-2268"
+    "phone": "(865) 547-2268",
+    "group":"Family"
   },
   {
     "_id": "5a33c01307e6894435ea8cce",
     "picture": "contacts/images/profile11.jpg",
     "name": "Barbara",
     "email": "barbarapitts@sentia.com",
-    "phone": "(934) 425-2830"
+    "phone": "(934) 425-2830",
+    "group":"Family"
   },
   {
     "_id": "5a33c01329b1b2b931496f49",
     "picture": "contacts/images/profile12.jpg",
     "name": "Salma",
     "email": "everetthartman@sentia.com",
-    "phone": "(814) 488-2182"
+    "phone": "(814) 488-2182",
+    "group":"Family"
   },
   {
     "_id": "5a33c013cf98deebd1f38d12",
     "picture": "contacts/images/profile13.jpg",
     "name": "Charlotte",
     "email": "colonpotts@sentia.com",
-    "phone": "(953) 501-2639"
+    "phone": "(953) 501-2639",
+    "group":"Family"
   },
   {
     "_id": "5a33c013cf8855d6522287ec",
     "picture": "contacts/images/profile14.jpg",
     "name": "Charlene",
     "email": "charleneaguilar@sentia.com",
-    "phone": "(955) 539-3518"
+    "phone": "(955) 539-3518",
+    "group":"Family"
   },
   {
     "_id": "5a33c0136f073a5ecb4c49cc",
     "picture": "contacts/images/profile15.jpg",
     "name": "Esther",
     "email": "woodarddunn@sentia.com",
-    "phone": "(922) 419-3625"
+    "phone": "(922) 419-3625",
+    "group":"Family"
   },
   {
     "_id": "5a33c01321998fa526f66e3e",
     "picture": "contacts/images/profile16.jpg",
     "name": "Ivone",
     "email": "lavonnebarr@sentia.com",
-    "phone": "(918) 590-3677"
+    "phone": "(918) 590-3677",
+    "group":"Family"
   },
   {
     "_id": "5a33c013a005a67586657c34",
     "picture": "contacts/images/profile17.jpg",
     "name": "Cheryl",
     "email": "bowmanreeves@sentia.com",
-    "phone": "(820) 497-2314"
+    "phone": "(820) 497-2314",
+    "group":"Family"
   },
   {
     "_id": "5a33c013fbe895d48d4b3da9",
     "picture": "contacts/images/profile18.jpg",
     "name": "Ramona",
     "email": "ramonahouston@sentia.com",
-    "phone": "(986) 551-2074"
+    "phone": "(986) 551-2074",
+    "group":"Family"
   },
   {
     "_id": "5a33c013eaea983b8dd8cac9",
     "picture": "contacts/images/profile19.jpg",
     "name": "Jenny",
     "email": "mcclainwebb@sentia.com",
-    "phone": "(901) 416-3571"
+    "phone": "(901) 416-3571", 
+    "group":"Family"
   },
   {
     "_id": "5a33c013affc5b74cfe834df",
     "picture": "contacts/images/profile20.jpg",
     "name": "Cat",
     "email": "mayskinner@sentia.com",
-    "phone": "(967) 547-3751"
+    "phone": "(967) 547-3751",
+    "group":"Family"
   },
   {
     "_id": "5a33c013f35675a0d18ddf67",
     "picture": "contacts/images/profile21.jpg",
     "name": "Melisa",
     "email": "melisahoover@sentia.com",
-    "phone": "(920) 550-2374"
+    "phone": "(920) 550-2374",
+    "group":"Family"
   },
   {
     "_id": "5a33c013ca3e4023419ba5e9",
     "picture": "contacts/images/profile22.jpg",
     "name": "Suzie",
     "email": "huffmanbray@sentia.com",
-    "phone": "(829) 483-2764"
+    "phone": "(829) 483-2764",
+    "group":"Family"
   },
   {
     "_id": "5a33c0139ee9a2efbff01227",
     "picture": "contacts/images/profile23.jpg",
     "name": "Jenny",
     "email": "gayclay@sentia.com",
-    "phone": "(966) 458-2422"
+    "phone": "(966) 458-2422",
+    "group":"Family"
   },
   {
     "_id": "5a33c013c13ee2874b875794",
     "picture": "contacts/images/profile24.jpg",
     "name": "Hurst",
     "email": "hurstbriggs@sentia.com",
-    "phone": "(957) 562-2414"
+    "phone": "(957) 562-2414",
+    "group":"Family"
   },
   {
     "_id": "5a33c01359e1592184250c84",
     "picture": "contacts/images/profile25.jpg",
     "name": "Jennifer",
     "email": "calderonhenson@sentia.com",
-    "phone": "(971) 472-2208"
+    "phone": "(971) 472-2208",
+    "group":"Family"
   },
   {
     "_id": "5a33c013642be6f043cbd7b5",
     "picture": "contacts/images/profile26.jpg",
     "name": "Cheryl",
     "email": "cherylfischer@sentia.com",
-    "phone": "(898) 446-3368"
+    "phone": "(898) 446-3368",
+    "group":"Family"
   },
   {
     "_id": "5a33c013ddfa515e6fb6c2ab",
     "picture": "contacts/images/profile27.jpg",
     "name": "Betty",
     "email": "walshcleveland@sentia.com",
-    "phone": "(805) 506-2602"
+    "phone": "(805) 506-2602",
+    "group":"Family"
   },
   {
     "_id": "5a33c013d1e792ea169b9af3",
     "picture": "contacts/images/profile28.jpg",
     "name": "Jill",
     "email": "figueroasexton@sentia.com",
-    "phone": "(854) 402-2463"
+    "phone": "(854) 402-2463",
+    "group":"Family"
   },
   {
     "_id": "5a33c013eb780ef9902aa600",
     "picture": "contacts/images/profile29.jpg",
     "name": "Catherine",
     "email": "johnsonmcdaniel@sentia.com",
-    "phone": "(974) 568-3848"
+    "phone": "(974) 568-3848",
+    "group":"Family"
   },
   {
     "_id": "5a33c013eb780ef9902aa700",
     "picture": "contacts/images/profile30.jpg",
     "name": "Kendra",
     "email": "johnsonmcdaniel@sentia.com",
-    "phone": "(974) 568-3848"
+    "phone": "(974) 568-3848",
+    "group":"Family"
   }
 ]

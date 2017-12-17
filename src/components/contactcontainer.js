@@ -2,28 +2,30 @@ import React from 'react';
 import Contact from './contact';
 import NumberOfContacts from './numberofcontacts';
 
-const ContactContainer = ({contacts, isActive, search}) => {
+const ContactContainer = ({contacts, currentContact, search, isActive}) => {
 
-    // filtering the contacts
-    let filteredContacts = contacts.filter((contact) => {
-        return contact.name.toLowerCase().indexOf(search.toLowerCase()) !== -1
-    });
+  // filtering the contacts
+  let filteredContacts = contacts.filter((contact) => {
+    return contact.name.toLowerCase().indexOf(search.toLowerCase()) !== -1
+  });
 
-    //  map through the contacts (in the beginning it is the full list fetched by axios)
-    let contactItem = filteredContacts.map((contact) => {
-        return (<Contact key={ contact._id } contact={ contact } isActive={ isActive } />)
-    });
+  //  map through the contacts (in the beginning it is the full list fetched by axios)
+  let contactItem = filteredContacts.map((contact) => {
 
     return (
-        <div>
-          <NumberOfContacts contacts={ contacts } />
-          <ul className="contact-container-outer" id="style">
-            <div className="contact-container-inner">
-              { contactItem }
-            </div>
-          </ul>
+      <Contact key={ contact._id } contact={ contact } currentContact={ currentContact } isActive={ isActive } />)
+  });
+
+  return (
+    <div>
+      <NumberOfContacts contacts={ contacts } />
+      <ul className="contact-container-outer">
+        <div className="contact-container-inner">
+          { contactItem }
         </div>
-        );
+      </ul>
+    </div>
+    );
 }
 
 export default ContactContainer;
